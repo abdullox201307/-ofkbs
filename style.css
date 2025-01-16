@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Poppins", serif;
+}
+.kuki{
+    font-size: 34px;
+    font-weight: 600;
+    color: white;  
+}
+.header{
+    width: 1441px;
+    height: 84px;
+    padding: 20px 40px 20px 40px;
+    display: flex;
+    background: #1e1532;
+    margin: 0 auto;
+}
+.naruto{
+    font-size: 28px;
+    font-weight: 400;
+    margin-left: 29px;
+    margin-left: -1px;
+    color: white;
+    margin-top: -20px;
+}
+.naiin{
+    width: 78px;
+    height: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin-top: 14px;
+    font-size: 10px;
+    font-weight: 600;
+    padding-left: 15px;
+    padding-top: 2px;
+}
+.naiin:hover{
+    background-color: #BFAFF2;
+}
+.non{
+    width: 99px;
+    height: 151px;
+    border-radius: 10px;
+    background-color: #232028;
+    margin-left: 35px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 11px 0px #FFFFFF;
+}
+.reg{
+    width: 175px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #bfaff200;
+    color:white;
+    padding-top: 9px;
+    padding-left: 44px;
+    margin-left: 578px;
+}
+.vxd{
+    width: 175px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #3c00ff00;
+    padding-left: 66px;
+    padding-top: 9px;
+    color: white;
+}
+.reg:hover{
+    background-color: #bfaff2;
+    color: #333333;
+}
+.vxd:hover{
+    background-color: #BFAFF2;
+    color: #333333;
+}
+.pp{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.8px;
+}
+.gojo1{
+    width: 325px;
+    height: 532px;
+    margin-top: 117px;   
+    margin-left: 40px;
+}
+.h1gojo{
+    font-size: 32px;
+    font-weight: 400;
+    color: white;
+    margin-left: 26px;
+    margin-bottom: 10px;
+}
+.pp{
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    margin-left: 16px;
+}
+.na{
+    width: 325px;
+    height: 240px;
+    border-radius: 32px;
+    background-color: #232028;    
+}
+.gojo2{
+    width: 325px;
+    height: 532px;
+    margin-left: 405px;
+    margin-top: -530px;
+}
+.nab{
+    width: 325px;
+    height: 240px;
+    border-radius: 32px;
+    background-color: #232028;   
+}
+.gojo3{
+    width: 325px;
+    height: 532px;
+    margin-left: 760px;
+    margin-top: -530px;
+}
+.gojo4{
+    width: 325px;
+    height: 532px;
+    margin-left: 1111px;
+    margin-top: -530px;   
+}
+.njnj{
+    width: 1441px;
+    height: 1000px;
+    background: #1e1532;
+    position: relative;
+    z-index: -10;
+    margin-top: -900px;
+}
+.footer{
+    display: flex;
+    width: 1440px;
+    height: 64px;
+    padding: 20px;
+    background: #1b142b;
+    gap: 40px;
+}
+.n{
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+
+}
